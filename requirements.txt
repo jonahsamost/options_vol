@@ -1,0 +1,8 @@
+py_vollib
+pandas
+numpy
+scipy
+matplotlib
+mysql-connector-python
+sqlalchemy
+alpaca-trade-api
